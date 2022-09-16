@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/89gfdfj/Abdullah-2.png" alt="Banner">
 <h1 align="center">Hi 👋, I'm MD. Abdullah Al Mamun Nayan</h1>
-<h3 align="center">A enthusiastic web developer from Bangladesh</h3>
+<h3 align="center">An enthusiastic web developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Redux, Next JS, React Native**
 
