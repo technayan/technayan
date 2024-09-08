@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Redux, Next JS, React Native**
 
-- 👨‍💻 All of my projects are available at [https://nayan-portfolio.web.app/](https://nayan-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://developer-nayan.vercel.app/](https://developer-nayan.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node JS, Express JS, MongoDB, MERN**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Node JS, Express JS, MongoDB, MERN, Next JS**
 
 - 📫 How to reach me **md.nayan8494@gmail.com**
 
