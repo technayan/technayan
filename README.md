@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/89gfdfj/Abdullah-2.png" alt="Banner">
+<img src="./banner.png" alt="Banner">
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun Nayan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
@@ -22,8 +22,8 @@ As a Full-Stack Developer, I focus on building modern, responsive, and user-frie
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 <p align="left">
-<a href="https://x.com/dev_nayan1" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="technayan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-abdullah-nayan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="technayan" height="30" width="40" /></a>
+<a href="https://x.com/dev_nayan1" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="technayan" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/md-abdullah-nayan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="technayan" height="48" width="48" /></a>
 </p>
 
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
